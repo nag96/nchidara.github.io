@@ -1,5 +1,5 @@
 title: Nagarjuna Chidarala # your name (or website title) here
-logo: "/images/LinkedinDP.jpeg?raw=true" # your photo (or logo) here
+logo: "/images/LinkedInDP.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   <p align="center">
@@ -16,6 +16,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     <a href="https://github.com/nag96/">nag96</a> 
     <br>
     <br>
+    <img src="https://github.com/nag96/nchidara.github.io/blob/master/images/iiits_logo.png?raw=true" width="30%" height="30%"/>
     <img src="https://github.com/nag96/nchidara.github.io/blob/master/images/nm_logo.jpeg?raw=true" width="30%" height="30%"/>
     <img src="https://github.com/nag96/nchidara.github.io/blob/master/images/purdue_logo.png?raw=true" width="30%" height="30%"/>
   </p>
