@@ -1,6 +1,6 @@
 ## About
 
-Hey! I am Rachit Jain, currently pursuing a Masters at MIT with a focus on Optimization, Machine Learning, and Data Science. I did my undergrad from IIT Delhi in Mechanical Engineering. I have experience in academic, startup, and corporate settings across various domains such as e-commerce, logistics, finance, technology, and healthcare. 
+Hi! I am Nagarjuna Chidarala, currently pursuing a Masters at Purdue University with a focus on Optimization, Machine Learning, and Data Science. I did my post grad in management with a business analytics major from NMIMS Mumbai and undergrad from IIIT Sricity in Electronics and Communication Engineering. I have experience in academic, startup, and corporate settings across various domains such as e-commerce, logistics, finance, technology, and healthcare. 
 <br><br>
 I am proud to have two awards instituted in my name: the "Rachit Shrachi Jain Full Attendance Award" for not taking a single leave in 13 years of school, and the "[Rachit Jain Award for All-Round Excellence](https://www.hindustantimes.com/ht-school/delhi-school-events-new-era-public-holds-honours-ceremony/story-vjgvxNebhtel5KqC04KgBK.html)" for demonstrating immense dedication and perseverance with utmost humility. 
 <br><br>
