@@ -1,22 +1,28 @@
 ## About
 
-Hi! I am Nagarjuna Chidarala, currently pursuing a Masters at Purdue University with a focus on Optimization, Machine Learning, and Data Science. I did my post grad in management with a business analytics major from NMIMS Mumbai and undergrad from IIIT Sricity in Electronics and Communication Engineering. I have experience in academic, startup, and corporate settings across various domains such as e-commerce, logistics, finance, technology, and healthcare. 
+I am Nagarjuna Chidarala, an accomplished logic-driven analytics thinker and consultant with over 5 years of experience spearheading data-driven solutions and insights. I'm currently pursuing a Master of Science in Business Analytics and Information Management from Purdue University, West Lafayette, USA, have an MBA focused on Business Analytics from NMIMS Mumbai, India, B.tech in Electronics and Communication from IIIT Sricity, India and honing my skills in statistical modeling, optimization, big data & cloud technologies, data science and machine learning.
 <br><br>
-I am proud to have two awards instituted in my name: the "Rachit Shrachi Jain Full Attendance Award" for not taking a single leave in 13 years of school, and the "[Rachit Jain Award for All-Round Excellence](https://www.hindustantimes.com/ht-school/delhi-school-events-new-era-public-holds-honours-ceremony/story-vjgvxNebhtel5KqC04KgBK.html)" for demonstrating immense dedication and perseverance with utmost humility. 
+As an Analytics Consultant, I spearheaded impactful projects in manufacturing optimization and operational efficiency for global Fortune 500 firms, identifying over $25M in cost savings. In a tech role, I developed SAS-based fraud detection systems for a health insurance firm, cutting claim review time from days to seconds and achieving 90% auto-approvals. Additionally, I optimized cash transit routes for a bank during an internship, resulting in a 50% reduction in nationwide operating costs.
 <br><br>
-I believe in the importance of continuous learning and pushing the boundaries of knowledge for personal and professional growth. I envision myself to be a leader bringing tangible positive impact through my work in a future where data will rule and analytics will be mainstream.
+In addition to my industry work, I have a passion for teaching and developing future analytics talent. I serve as a [Visiting Faculty at NMIMS Mumbai](https://online.nmims.edu/faculty/prof-nagarjuna-chidarala/), teaching graduate courses in Basics of Big Data and Business Analytics. Being able to impart my knowledge and experiences to shape the next generation of analytics professionals has been tremendously rewarding.
+<br><br>
+I thrive at the intersection of business strategy and data-driven insights. With robust technical skills, strong communication abilities, and a nimble learning mindset, I am eager to take on new challenges focused on advanced analytics, quantitative modeling, and communicating data narratives to influence strategic decisions in my next role.
+<!--I am proud to have two awards instituted in my name: the "Rachit Shrachi Jain Full Attendance Award" for not taking a single leave in 13 years of school, and the "[Rachit Jain Award for All-Round Excellence](https://www.hindustantimes.com/ht-school/delhi-school-events-new-era-public-holds-honours-ceremony/story-vjgvxNebhtel5KqC04KgBK.html)" for demonstrating immense dedication and perseverance with utmost humility. 
+<br><br>
+I believe in the importance of continuous learning and pushing the boundaries of knowledge for personal and professional growth. I envision myself to be a leader bringing tangible positive impact through my work in a future where data will rule and analytics will be mainstream.-->
 
 ---
 
-## Non-Internship Projects  
+## Projects
 
-## Computer Vision (CV)
+## Vehicle Routing and Optimization
 
-[Making Graphs Accessible - Creating Tabular Data from Graph Images](https://rachit-0032.github.io/hands-on-DL)
+<!--[Making Graphs Accessible - Creating Tabular Data from Graph Images](https://rachit-0032.github.io/hands-on-DL)
+<br>-->
+Implemented a cash-in-transit optimization project for a leading indian bank, utilizing **Capacitated Vehicle Routing Problem (CVRP) optimization** with Python and Google OR Tools. The pilot test in Mumbai resulted in a 50% reduction in operational costs, showcasing the impactful application of advanced optimization techniques. The success in Mumbai has paved the way for the nationwide implementation of this efficient routing strategy, promising substantial cost efficiencies and heightened operational effectiveness for the bank's cash-in-transit vehicle operations.
 <br>
-The capability to extract data from an image of a graph would not only assist those with visual impairment, but also enabling people to effectively work with the graph's source data just by scanning its image. We (team of 4) utilized computer vision to extract information from a real-world graph image into tabulated form. This involved building an end-to-end pipeline with heavy **image pre-processing**, graph type classification, **text recognition** & text extractor systems.
-<br>
-[Read Full Report](https://github.com/rachit-0032/hands-on-DL/blob/main/HODL_Project_Report.pdf)
+[Read Full Report](https://medium.com/@nag96.chidara/capacitated-vehicle-routing-problem-cvrp-optimization-using-google-or-tools-and-python-7848fb5ffd16)
+[Kaggle Implementation](https://www.kaggle.com/code/arjunanc/vehicle-routing-problem-cvrp-using-google-or-tools)
 <br><br>
 <img src="https://github.com/rachit-0032/hands-on-DL/blob/main/15S04_Model_Pipeline.png?raw=true"/>
 
