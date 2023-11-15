@@ -22,6 +22,7 @@ I believe in the importance of continuous learning and pushing the boundaries of
 Implemented a cash-in-transit optimization project for a leading indian bank, utilizing **Capacitated Vehicle Routing Problem (CVRP) optimization** with Python and Google OR Tools. The pilot test in Mumbai resulted in a 50% reduction in operational costs, showcasing the impactful application of advanced optimization techniques. The success in Mumbai has paved the way for the nationwide implementation of this efficient routing strategy, promising substantial cost efficiencies and heightened operational effectiveness for the bank's cash-in-transit vehicle operations.
 <br>
 [Read Full Report](https://medium.com/@nag96.chidara/capacitated-vehicle-routing-problem-cvrp-optimization-using-google-or-tools-and-python-7848fb5ffd16)
+<br>
 [Kaggle Implementation](https://www.kaggle.com/code/arjunanc/vehicle-routing-problem-cvrp-using-google-or-tools)
 <br><br>
 <img src="https://github.com/rachit-0032/hands-on-DL/blob/main/15S04_Model_Pipeline.png?raw=true"/>
