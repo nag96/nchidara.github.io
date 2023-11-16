@@ -41,7 +41,8 @@ Implemented a cash-in-transit optimization project for a leading indian bank, ut
     <img src="images/col_logo.jpeg?raw=true" width="5%" height="5%"/> <img src="images/edx_logo.jpeg?raw=true" width="5%" height="5%"/>
     <a href="https://courses.edx.org/certificates/98a51eb9216149ed98d482876702ec6e">Data, Models and Decisions in Business Analytics from Columbia University on edx</a> 
     <br>
-<!-- **Automated Categorization of Scanned Documents in a PDF docket**
+<!-- 
+**Automated Categorization of Scanned Documents in a PDF docket**
 <br>
 Even in today's increasingly digitised world, many organisations still rely on manual verification of documents. While a manual check could be necessary for a authorisation stand-point, the process can be immensely assisted by using technology to categorize the documents in their particular categories as an initial, highly accurate, run which could be verified by a human. We (team of 2), as part of MIT MBAN Capstone Project, are using **multi-modal** text and vision based approach towards buidling a generalized capability that could support this work for **Wolters Kluwer**. 
 <br>
