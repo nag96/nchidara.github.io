@@ -28,6 +28,9 @@ Implemented a cash-in-transit optimization project for a leading indian bank, ut
 [Kaggle Implementation](https://www.kaggle.com/code/arjunanc/vehicle-routing-problem-cvrp-using-google-or-tools)
 <br>
 <img src="images/cvrp_image.png?raw=true"/> 
+
+---
+
 ## Certifications
 <br>
 <img src="images/ms_logo.jpeg?raw=true" width="5%" height="5%"/>
