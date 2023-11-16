@@ -1,6 +1,6 @@
 ## Home
 ---
-##About
+## About
 
 I am Nagarjuna Chidarala, an accomplished logic-driven analytics thinker and consultant with over 5 years of experience in spearheading data-driven solutions and insights. I'm currently pursuing a Master of Science in Business Analytics and Information Management from Purdue University, West Lafayette, USA, have an MBA focused on Business Analytics from NMIMS Mumbai, India, B.tech in Electronics and Communication from IIIT Sricity, India and honing my skills in statistical modeling, optimization, big data & cloud technologies, data science and machine learning.
 <br><br>
