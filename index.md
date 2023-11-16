@@ -28,19 +28,18 @@ Implemented a cash-in-transit optimization project for a leading indian bank, ut
 <!-- <img src="https://github.com/rachit-0032/hands-on-DL/blob/main/15S04_Model_Pipeline.png?raw=true"/> -->
 
 ## Certifications
-<br><br>
+<br>
     <img src="images/ms_logo.jpeg?raw=true" width="5%" height="5%"/>
     <a href="https://drive.google.com/file/d/1cycf5RhCls-IbXn5HskZud_mQnP50A2i/view">Azure Fundamentals</a> 
     <br>
     <img src="images/sas_logo.jpeg?raw=true" width="5%" height="5%"/>
-    <a href="https://www.credly.com/badges/7155c3ee-277d-4f95-b4c1-a71d698ba8f1/public_url">SAS Optimization</a> 
+    <a href="https://drive.google.com/file/d/1gg2_CMYuDJIVWSmrM8-tj1D1gEMSYfdw/view">SAS Optimization</a> 
     <br>
     <img src="images/col_logo.jpeg?raw=true" width="5%" height="5%"/> <img src="images/edx_logo.jpeg?raw=true" width="5%" height="5%"/>
     <a href="https://courses.edx.org/certificates/effea36c9c98452ab06014f31f212866">Analytics in Python from Columbia University on edx</a> 
     <br>
     <img src="images/col_logo.jpeg?raw=true" width="5%" height="5%"/> <img src="images/edx_logo.jpeg?raw=true" width="5%" height="5%"/>
     <a href="https://courses.edx.org/certificates/98a51eb9216149ed98d482876702ec6e">Data, Models and Decisions in Business Analytics from Columbia University on edx</a> 
-    <br>
     <br>
 <!-- **Automated Categorization of Scanned Documents in a PDF docket**
 <br>
@@ -49,8 +48,8 @@ Even in today's increasingly digitised world, many organisations still rely on m
 I am currently working on this project...
 <br> 
 
----
 
+<!--
 ## Optimisation
 
 [Optimizing Inter-Hospital Patient Transfer (IHT) Routing](https://rachit-0032.github.io/Patient-Transfer-Optimization)
