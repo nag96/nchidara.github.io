@@ -39,7 +39,9 @@ Implemented a cash-in-transit optimization project for a leading indian bank, ut
 <br>
 <img src="images/col_logo.jpeg?raw=true" width="5%" height="5%"/> <img src="images/edx_logo.jpeg?raw=true" width="5%" height="5%"/>
 <a href="https://courses.edx.org/certificates/98a51eb9216149ed98d482876702ec6e">Data, Models and Decisions in Business Analytics from Columbia University on edx</a> 
-    
+<br>
+<img src="images/citi_logo.jpeg?raw=true" width="5%" height="5%"/>
+<a href="https://www.citiprogram.org/verify/?wa31354ed-65bc-43a1-8b89-9b420bab18ae-57763331">Group 2.Social Behavioral Research Investigators and Key Personnel</a> 
 <!-- 
 <!--
 **Automated Categorization of Scanned Documents in a PDF docket**
