@@ -24,21 +24,21 @@ Implemented a cash-in-transit optimization project for a leading indian bank, ut
 [Read Full Report](https://medium.com/@nag96.chidara/capacitated-vehicle-routing-problem-cvrp-optimization-using-google-or-tools-and-python-7848fb5ffd16)
 <br>
 [Kaggle Implementation](https://www.kaggle.com/code/arjunanc/vehicle-routing-problem-cvrp-using-google-or-tools)
-<br><br>
+<br>
 <img src="images/cvrp_image.png?raw=true"/> 
 ## Certifications
 <br>
-    <img src="images/ms_logo.jpeg?raw=true" width="5%" height="5%"/>
-    <a href="https://drive.google.com/file/d/1cycf5RhCls-IbXn5HskZud_mQnP50A2i/view">Azure Fundamentals</a> 
-    <br>
-    <img src="images/sas_logo.jpeg?raw=true" width="5%" height="5%"/>
-    <a href="https://drive.google.com/file/d/1gg2_CMYuDJIVWSmrM8-tj1D1gEMSYfdw/view">SAS Optimization</a> 
-    
-    <img src="images/col_logo.jpeg?raw=true" width="5%" height="5%"/> <img src="images/edx_logo.jpeg?raw=true" width="5%" height="5%"/>
-    <a href="https://courses.edx.org/certificates/effea36c9c98452ab06014f31f212866">Analytics in Python from Columbia University on edx</a> 
-    <br>
-    <img src="images/col_logo.jpeg?raw=true" width="5%" height="5%"/> <img src="images/edx_logo.jpeg?raw=true" width="5%" height="5%"/>
-    <a href="https://courses.edx.org/certificates/98a51eb9216149ed98d482876702ec6e">Data, Models and Decisions in Business Analytics from Columbia University on edx</a> 
+<img src="images/ms_logo.jpeg?raw=true" width="5%" height="5%"/>
+<a href="https://drive.google.com/file/d/1cycf5RhCls-IbXn5HskZud_mQnP50A2i/view">Azure Fundamentals</a> 
+<br>
+<img src="images/sas_logo.jpeg?raw=true" width="5%" height="5%"/>
+<a href="https://drive.google.com/file/d/1gg2_CMYuDJIVWSmrM8-tj1D1gEMSYfdw/view">SAS Optimization</a> 
+<br>
+<img src="images/col_logo.jpeg?raw=true" width="5%" height="5%"/> <img src="images/edx_logo.jpeg?raw=true" width="5%" height="5%"/>
+<a href="https://courses.edx.org/certificates/effea36c9c98452ab06014f31f212866">Analytics in Python from Columbia University on edx</a> 
+<br>
+<img src="images/col_logo.jpeg?raw=true" width="5%" height="5%"/> <img src="images/edx_logo.jpeg?raw=true" width="5%" height="5%"/>
+<a href="https://courses.edx.org/certificates/98a51eb9216149ed98d482876702ec6e">Data, Models and Decisions in Business Analytics from Columbia University on edx</a> 
     
 <!-- 
 <!--
