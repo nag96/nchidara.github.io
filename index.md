@@ -47,7 +47,7 @@ Implemented a cash-in-transit optimization project for a leading indian bank, ut
 Even in today's increasingly digitised world, many organisations still rely on manual verification of documents. While a manual check could be necessary for a authorisation stand-point, the process can be immensely assisted by using technology to categorize the documents in their particular categories as an initial, highly accurate, run which could be verified by a human. We (team of 2), as part of MIT MBAN Capstone Project, are using **multi-modal** text and vision based approach towards buidling a generalized capability that could support this work for **Wolters Kluwer**. 
 <br>
 I am currently working on this project...
-<br> -->
+<br> 
 
 ---
 
@@ -134,5 +134,5 @@ Millions of people around the globe are affected by Parkinsons, a disease which 
 [Read Pitch](https://github.com/rachit-0032/iStopTremors/blob/main/iStopTremors%20Long%20Pitch.pdf)
 <br><br>
 <img src="https://github.com/rachit-0032/iStopTremors/blob/main/DISA%202019%20-%20Hand%20Glove%20Prototype.png?raw=true"/>
-
+-->
 
