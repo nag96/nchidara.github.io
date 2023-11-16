@@ -1,6 +1,6 @@
 ## About
 
-I am Nagarjuna Chidarala, an accomplished logic-driven analytics thinker and consultant with over 5 years of experience spearheading data-driven solutions and insights. I'm currently pursuing a Master of Science in Business Analytics and Information Management from Purdue University, West Lafayette, USA, have an MBA focused on Business Analytics from NMIMS Mumbai, India, B.tech in Electronics and Communication from IIIT Sricity, India and honing my skills in statistical modeling, optimization, big data & cloud technologies, data science and machine learning.
+I am Nagarjuna Chidarala, an accomplished logic-driven analytics thinker and consultant with over 5 years of experience in spearheading data-driven solutions and insights. I'm currently pursuing a Master of Science in Business Analytics and Information Management from Purdue University, West Lafayette, USA, have an MBA focused on Business Analytics from NMIMS Mumbai, India, B.tech in Electronics and Communication from IIIT Sricity, India and honing my skills in statistical modeling, optimization, big data & cloud technologies, data science and machine learning.
 <br><br>
 As an Analytics Consultant, I spearheaded impactful projects in manufacturing optimization and operational efficiency for global Fortune 500 firms, identifying over $25M in cost savings. In a tech role, I developed SAS-based fraud detection systems for a health insurance firm, cutting claim review time from days to seconds and achieving 90% auto-approvals. Additionally, I optimized cash transit routes for a bank during an internship, resulting in a 50% reduction in nationwide operating costs.
 <br><br>
@@ -25,7 +25,7 @@ Implemented a cash-in-transit optimization project for a leading indian bank, ut
 <br>
 [Kaggle Implementation](https://www.kaggle.com/code/arjunanc/vehicle-routing-problem-cvrp-using-google-or-tools)
 <br><br>
-<!-- <img src="https://github.com/rachit-0032/hands-on-DL/blob/main/15S04_Model_Pipeline.png?raw=true"/> -->
+<img src="images/cvrp_image.png?raw=true"/> 
 ## Certifications
 <br>
     <img src="images/ms_logo.jpeg?raw=true" width="5%" height="5%"/>
