@@ -33,13 +33,13 @@ Implemented a cash-in-transit optimization project for a leading indian bank, ut
     <br>
     <img src="images/sas_logo.jpeg?raw=true" width="5%" height="5%"/>
     <a href="https://drive.google.com/file/d/1gg2_CMYuDJIVWSmrM8-tj1D1gEMSYfdw/view">SAS Optimization</a> 
-    <br>
+    
     <img src="images/col_logo.jpeg?raw=true" width="5%" height="5%"/> <img src="images/edx_logo.jpeg?raw=true" width="5%" height="5%"/>
     <a href="https://courses.edx.org/certificates/effea36c9c98452ab06014f31f212866">Analytics in Python from Columbia University on edx</a> 
     <br>
     <img src="images/col_logo.jpeg?raw=true" width="5%" height="5%"/> <img src="images/edx_logo.jpeg?raw=true" width="5%" height="5%"/>
     <a href="https://courses.edx.org/certificates/98a51eb9216149ed98d482876702ec6e">Data, Models and Decisions in Business Analytics from Columbia University on edx</a> 
-    <br>
+    
 <!-- 
 <!--
 **Automated Categorization of Scanned Documents in a PDF docket**
